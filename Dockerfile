@@ -1,1 +1,1 @@
-FROM ubuntu_veena:latest
+FROM ubuntu:latest
